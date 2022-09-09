@@ -1,77 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="49fa3164-462b-4733-b3a8-f917b2acf4e7" name="变更" comment="提交">
-      <change afterPath="$PROJECT_DIR$/Java学习.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/comp1100_OnClass_programming.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/comp1100_OnClass_programming1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java程序设计_翁恺/Class7/test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java程序设计_翁恺/Class8/Clock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java程序设计_翁恺/Class8/vendingMachine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java程序设计_翁恺/week6/MathType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java程序设计_翁恺/week6/字符串.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java程序设计_翁恺/week6/字符串操作.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java程序设计_翁恺/week6/字符串输入.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/练习/array_text.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/练习/instance_variables.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/练习/随机数.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/课堂代码练习/C01/Maternalineage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/课堂代码练习/C01/MergeSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/课堂代码练习/J05/ControlFlowSwitch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/课堂代码练习/J05/ControlFlowif.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/课堂代码练习/J06/ControlFlowFor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/课堂代码练习/J07/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/课堂代码练习/J07/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/课堂代码练习/J07/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/课堂代码练习/J07/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/课堂代码练习/J07/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/课堂代码练习/J07/JO7.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/课堂代码练习/J07/Methods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/课堂代码练习/J08/Flooring.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/课堂代码练习/J08/Nested.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/课堂代码练习/J08/Room.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/课堂代码练习/J12/Container.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/课堂代码练习/J12/GenericContainer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/课堂代码练习/J14/Boggle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/课堂代码练习/O04/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/课堂代码练习/O04/Greeter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/课堂代码练习/O04/Human.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/课堂代码练习/O04/Inheritance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/课堂代码练习/O04/Mammal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/课堂代码练习/O04/Reptile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/课堂代码练习/O04/Robot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/课堂代码练习/O04/Snake.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/课堂代码练习/O05/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/课堂代码练习/O05/Greeter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/课堂代码练习/O05/Human.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/课堂代码练习/O05/Mammal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/课堂代码练习/O05/Reptile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/课堂代码练习/O05/Robot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/课堂代码练习/O05/Snake.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/课堂代码练习/O1/Objects.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/课堂代码练习/O1/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/课堂代码练习/O2/AccessControl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/课堂代码练习/O2/Comp1110Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/课堂代码练习/O2/FourOrderedints.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/课堂代码练习/O2/Grade.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/课堂代码练习/O2/Inheritance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/课堂代码练习/O2/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/课堂代码练习/O2/ValueContexts.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/课堂代码练习/X01/JFXHelloWorld.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../comp1110/comp-1110-lectures-s-2-2022/src/comp1110/lectures/J14/Boggle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaClass_Week5.iml" beforeDir="false" afterPath="$PROJECT_DIR$/COMP1100_Study.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week4/Class4_2_2/homeworks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java程序设计_翁恺/Class4/homeworks.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week4/Class4_2_2/prime.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java程序设计_翁恺/Class4/prime.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week4/class4_2_1/prime.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java程序设计_翁恺/Class4/primeJudge.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week5/class_5_2_3/prime.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java程序设计_翁恺/Class5/prime.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week5/class_5_3_1/two_dimensional_array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java程序设计_翁恺/Class5/twoDimensionalArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week6/class_6_1_1/char1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java程序设计_翁恺/week6/char1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week6/class_6_1_2/escape_character.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java程序设计_翁恺/week6/escape_character.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week7/test.java" beforeDir="false" />
-    </list>
+    <list default="true" id="49fa3164-462b-4733-b3a8-f917b2acf4e7" name="变更" comment="9.8 工作" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -108,7 +38,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;jdk.selected.JAVA_MODULE&quot;: &quot;17&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/1_Workspace/1_IDEA Project/Java学习&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/1_Workspace/1_IDEA Project/comp1110/comp1110-labs&quot;,
     &quot;project.structure.last.edited&quot;: &quot;库&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.41609195&quot;,
@@ -284,7 +214,14 @@
       <option name="project" value="LOCAL" />
       <updated>1659320663475</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="9.8 工作">
+      <created>1662597979083</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1662597979083</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -303,7 +240,8 @@
       <path value="$PROJECT_DIR$/../comp1110/comp1100_OnClass_programming" />
     </ignored-roots>
     <MESSAGE value="提交" />
-    <option name="LAST_COMMIT_MESSAGE" value="提交" />
+    <MESSAGE value="9.8 工作" />
+    <option name="LAST_COMMIT_MESSAGE" value="9.8 工作" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
